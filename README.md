@@ -19,6 +19,9 @@ This example runs a [Directus](https://directus.io/) instance with minimal confi
 - Directus
 - PostgreSQL
 - Javascript
+- DigitalOcean Spaces
+- WP Slugs
+- Display links
 
 ## 💁‍♀️ How to use
 
